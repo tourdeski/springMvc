@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spring-security-core-4.2.7.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-security-core-4.2.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-security-web-4.2.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-security-config-4.2.7.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
