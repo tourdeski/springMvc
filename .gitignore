@@ -1,0 +1,4 @@
+/CargoMachineManager/.idea/
+*.ini
+/CargoMachineManager/out/
+*.class
