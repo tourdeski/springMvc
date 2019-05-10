@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 public class Block {
 
     /**
-     * м
+     * метр
      */
     private BigDecimal high;
 

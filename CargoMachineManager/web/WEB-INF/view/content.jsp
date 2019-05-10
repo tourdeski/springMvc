@@ -56,7 +56,6 @@
 <div class="modal">
     <form>
         <table>
-            <tr><td colspan="2">Please click a button to redirect you to the page you wish to go to.</td></tr>
             <tr>
                 <td> <input type="button" class="button button1" value="Подбор" onclick="goToTower()"> </td>
                 <td> <input type="button" class="button button1" value="Список кранов" onclick="goToEditMachineList()"></td>
